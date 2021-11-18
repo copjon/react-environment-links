@@ -9,7 +9,7 @@ npm install -g yarn
 
 ## VSCode Plugins
 ### ESLint
-[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+VSCode Marketplace - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 #### Setting up Auto Fix on Save
 Auto Fix on Save - Auto Fix on Save is now part of VS Code's Code Action on Save infrastructure and computes all possible fixes in one round. It is customized via the editor.codeActionsOnSave setting. The setting supports the ESLint specific property source.fixAll.eslint. The extension also respects the generic property source.fixAll.
 The setting below turns on Auto Fix for all providers including ESLint:
